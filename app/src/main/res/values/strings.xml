@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">android_lab3</string>
+
+    <string name="created_by">Алексеев Вячеслав, N33461</string>
+
+    <string name="call_make">Выполнить запрос</string>
+    <string name="call_none">Кликните кнопку для запроса</string>
+    <string name="call_getting">Запрос в процессе…</string>
+    <string name="call_failure">Запрос не удался!</string>
+    <string name="call_success">Запрос выполнен! Ваш IP: %s</string>
+
+    <string name="feedback_hint">Введите обратную связь</string>
+    <string name="feedback_send">Отправить обратную связь</string>
+    <string name="feedback_label">Последние три записи:</string>
+    <string name="feedback_date_placeholder">ДАТА</string>
+    <string name="feedback_content_placeholder">СОДЕРЖАНИЕ</string>
+</resources>
